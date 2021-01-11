@@ -1,7 +1,8 @@
-#Links to website
+# Links to website
+
 react-github-jobs.herokuapp.com/
 
-#ScreenShots
+# ScreenShots
 
 ![1](https://user-images.githubusercontent.com/50498916/103884454-d3353580-5108-11eb-9178-5e22c5a8cde1.JPG)
 
