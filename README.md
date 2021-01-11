@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 #Links to website
-=======
-# ScreenShots 
->>>>>>> 2635b0cc9c099438a30c44e5028b03ba5a6f7217
-
 react-github-jobs.herokuapp.com/
 
 #ScreenShots
